@@ -1,0 +1,28 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Commons Logging,org.apache.commons.logging.impl,LogKitLogger,146,0,22,0,49,0,31,0,20,0
+Commons Logging,org.apache.commons.logging.impl,Log4JLogger,235,0,14,0,55,0,30,0,23,0
+Commons Logging,org.apache.commons.logging.impl,LogFactoryImpl,1582,0,188,0,377,0,129,0,35,0
+Commons Logging,org.apache.commons.logging.impl,LogFactoryImpl.new PrivilegedAction() {...},15,0,0,0,2,0,2,0,2,0
+Commons Logging,org.apache.commons.logging.impl,LogFactoryImpl.new PrivilegedAction() {...},13,0,0,0,2,0,2,0,2,0
+Commons Logging,org.apache.commons.logging.impl,SimpleLog,604,0,85,0,161,0,75,0,30,0
+Commons Logging,org.apache.commons.logging.impl,LogFactoryImpl.new PrivilegedAction() {...},5,0,0,0,2,0,2,0,2,0
+Commons Logging,org.apache.commons.logging.impl,WeakHashtable,304,0,28,0,81,0,31,0,17,0
+Commons Logging,org.apache.commons.logging.impl,AvalonLogger,45,141,14,12,13,30,21,15,8,15
+Commons Logging,org.apache.commons.logging.impl,Jdk13LumberjackLogger,281,0,12,0,76,0,29,0,23,0
+Commons Logging,org.apache.commons.logging.impl,NoOpLog,30,0,0,0,20,0,20,0,20,0
+Commons Logging,org.apache.commons.logging.impl,WeakHashtable.Entry,80,0,20,0,19,0,16,0,6,0
+Commons Logging,org.apache.commons.logging.impl,WeakHashtable.WeakKey,11,0,0,0,4,0,2,0,2,0
+Commons Logging,org.apache.commons.logging.impl,WeakHashtable.new Enumeration() {...},21,0,0,0,4,0,3,0,3,0
+Commons Logging,org.apache.commons.logging.impl,SimpleLog.new PrivilegedAction() {...},19,0,2,0,5,0,3,0,2,0
+Commons Logging,org.apache.commons.logging.impl,ServletContextCleaner,81,0,4,0,26,0,5,0,3,0
+Commons Logging,org.apache.commons.logging.impl,Jdk14Logger,195,0,10,0,54,0,27,0,22,0
+Commons Logging,org.apache.commons.logging.impl,WeakHashtable.Referenced,77,0,10,0,21,0,10,0,5,0
+Commons Logging,org.apache.commons.logging,LogFactory,1431,0,214,0,400,0,138,0,31,0
+Commons Logging,org.apache.commons.logging,LogSource,179,0,18,0,77,0,17,0,8,0
+Commons Logging,org.apache.commons.logging,LogConfigurationException,47,0,2,0,11,0,6,0,5,0
+Commons Logging,org.apache.commons.logging,LogFactory.new PrivilegedAction() {...},15,0,0,0,2,0,2,0,2,0
+Commons Logging,org.apache.commons.logging,LogFactory.new PrivilegedAction() {...},5,0,0,0,2,0,2,0,2,0
+Commons Logging,org.apache.commons.logging,LogFactory.new PrivilegedAction() {...},45,0,4,0,11,0,4,0,2,0
+Commons Logging,org.apache.commons.logging,LogFactory.new PrivilegedAction() {...},22,0,2,0,4,0,3,0,2,0
+Commons Logging,org.apache.commons.logging,LogFactory.new PrivilegedAction() {...},15,0,0,0,2,0,2,0,2,0
+Commons Logging,org.apache.commons.logging,LogFactory.new PrivilegedAction() {...},39,0,4,0,12,0,4,0,2,0
