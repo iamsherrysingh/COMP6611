@@ -13,4 +13,7 @@ Team Members:
 File Structure:
 ===============
 
-1. 'SM Projects' is directory that has project wise jacoco reports, pom.xml that has configuration used, pitest results, code churn command results
+1. 'SM Projects' is directory that has project wise jacoco reports, pom.xml that has configuration used and the projects exported as zip.
+2. 'PI Test Reports' has results for PI test.
+3. 'Code Churn Reports' has results for Code Churn.
+4. 'Defect Density Reports' has JIRA reports and results from LocMetric tool.
