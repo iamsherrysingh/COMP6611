@@ -12,3 +12,5 @@ Team Members:
 
 File Structure:
 ===============
+
+1. 'SM Projects' is directory that has project wise jacoco reports, pom.xml that has configuration used, pitest results, code churn command results
