@@ -15,6 +15,7 @@ File Structure:
 
 1. 'SM Projects' is directory that has project wise jacoco reports, pom.xml that has configuration used and the projects exported as zip.
 2. Metric contain the following:
-  A.   'PI Test Reports' has results for PI test.
-  B.   'Code Churn Reports' has results for Code Churn.
-  C.   'Defect Density Reports' has JIRA reports and results from LocMetric tool.
+  A.    Metric 1, 2 and 4 contains the configuration files for Statement Coverage Jacoco tool.
+  B.    Metric 4 has the 'PI Test Reports' and results for PI test.
+  B.    Metric 5 contains 'Code Churn results'.
+  C.    Metric 6 has JIRA reports and results from LocMetric tool.
