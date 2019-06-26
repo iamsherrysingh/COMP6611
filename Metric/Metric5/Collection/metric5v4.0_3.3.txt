@@ -1,0 +1,51 @@
+github.com/AlDanial/cloc v 1.82  T=6.31 s (0.2 files/s, 0.2 lines/s)
+----------------------------------------------------------------------------------------
+Language                              files          blank        comment           code
+----------------------------------------------------------------------------------------
+Java
+ same                                     0              0          16645          10720
+ modified                               220              0           5497           6406
+ added                                  249           9008          19288          39219
+ removed                                250           7053          16012          34496
+XML
+ same                                     0              0              0              0
+ modified                                 0              0              0              0
+ added                                   20            192            362           1271
+ removed                                 20            208            400           2131
+Maven
+ same                                     0              0              0              0
+ modified                                 0              0              0              0
+ added                                    1             12             25            426
+ removed                                  1             26             30            630
+HTML
+ same                                     1              4             15             94
+ modified                                 0              0              0              0
+ added                                   17            101            259            578
+ removed                                  3             49             43            186
+Ant
+ same                                     0              0              0              0
+ modified                                 0              0              0              0
+ added                                    1             83             66            480
+ removed                                  1             18             36            203
+Velocity Template Language
+ same                                     0              0              0              0
+ modified                                 0              0              0              0
+ added                                    0              0              0              0
+ removed                                  1             13             25            100
+Bourne Shell
+ same                                     0              0              0              0
+ modified                                 0              0              0              0
+ added                                    0              0              0              0
+ removed                                  1              0              2              2
+CSS
+ same                                     0              0              0              0
+ modified                                 0              0              0              0
+ added                                    1              0              0              1
+ removed                                  0              0              0              0
+----------------------------------------------------------------------------------------
+SUM:
+ same                                     1              4          16660          10814
+ modified                               220              0           5497           6406
+ added                                  289           9396          20000          41975
+ removed                                277           7367          16548          37748
+----------------------------------------------------------------------------------------
